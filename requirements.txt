@@ -4,7 +4,7 @@ chardet==3.0.4
 google==2.0.2
 idna==2.8
 json2html==1.2.1
-numpy==1.16.4
+numpy==1.22.0
 pyperclip==1.7.0
 requests==2.22.0
 selenium==3.141.0
